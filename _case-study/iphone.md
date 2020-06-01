@@ -16,7 +16,7 @@ gallery:
     caption: " Η δευτερη γεννία iPhone , το iPhone 3G ενσωμάτονε και τεχνολογία 3G,ενω κρατουσε την ίδια νοοτροπία στον σχεδιασμό . "
   - image_url: /images/iphone_camera.jpg
     caption: "Ένα απο τα βασικά χαρακτηριστικά του iPhone ήταν και μία κάμερα 2.0 megapixel"
-  
+---
 
 {% include_relative cs-iphone.md %}
 
